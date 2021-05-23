@@ -1,0 +1,10 @@
+{'Food' : 150.00}
+{'Debt' : 230.00}
+{'Clothing' : 125.00}
+{'Maintenance': 250.0}
+{'Food': 'Food', '45': '45'}
+{'Food': 'Food', '34.00': '34.00'}
+{'Debt': 109.0}{'Books': 'Books', '100.00': '100.00'}
+{'Debt': 109.0}{'Stuff': 'Stuff', '345': '345'}
+{'Buckets': 'Buckets', '45': '45'}
+{'Debt': 109.0}
